@@ -17,7 +17,7 @@ This Tech School Landing Page is a modern and innovative website designed to pro
 
 ## Usage
 
-To view the website, simply visit the live site or download the project files and open the `index.html` file in your preferred web browser. The website can be easily customized and modified to fit your specific school needs.
+To view the website, simply visit the [live site](https://burntroll.github.io/landing-page-dio/) or download the project files and open the `index.html` file in your preferred web browser. The website can be easily customized and modified to fit your specific school needs.
 
 ## Contributing
 
@@ -25,7 +25,7 @@ Contributions to this project are welcome! Feel free to fork this repository and
 
 ## Credits
 
-This project was built by [Burntroll](https://github.com/Burntroll).
+This project was built by [Francisco Silva](https://github.com/Burntroll).
 
 ## License
 
